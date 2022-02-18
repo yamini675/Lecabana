@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: gktap
+Build-Jdk: 11.0.12
+Implementation-Title: aws-hello-world-rest-api
+Implementation-Version: 1.0.0-RELEASE
+Implementation-Vendor-Id: com.in28minutes.rest.webservices
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/01-aws-hello-world-rest-api
+Created-By: Maven Integration for Eclipse
+
